@@ -1,0 +1,36 @@
+main {
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+main>divi{
+   margin: 10vw;
+} 
+.conteudo{
+    background-color:yellow
+}
+
+.imagem {
+    background-color:blue
+}
+
+main{
+    background-color: green
+    display flex
+    justify-self center
+}
+
+main{
+    background-color:green;
+    display :flex
+    justify-content center;
+
+}
+ main{
+    background-color: green;
+    display: flex;
+    height: 70vw;
+    align-items: center;
+ }
